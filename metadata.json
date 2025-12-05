@@ -1,0 +1,5 @@
+{
+  "name": "Health Melody",
+  "description": "A progressive web app to track your weight, BMI, and health journey with data visualization and export features. Built with React, Tailwind CSS, and Firebase integration.",
+  "requestFramePermissions": []
+}
